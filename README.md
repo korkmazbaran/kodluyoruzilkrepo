@@ -11,3 +11,16 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitimind
 git clone https://github.com/korkmazbaran/kodluyoruzilkrepo.git
 
 ```
+
+## Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+```linux
+
+cd kodluyoruzilkrepo
+code .
+
+```
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
